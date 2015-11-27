@@ -2,4 +2,4 @@
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.."; pwd)"
 
-"${ROOT_DIR}/tests/lib/shebang-unit" "${ROOT_DIR}/tests"
+"${ROOT_DIR}/lib/shebang-unit" "${ROOT_DIR}/sources"
