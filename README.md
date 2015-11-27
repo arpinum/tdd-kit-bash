@@ -2,7 +2,7 @@
 
 ## Run unit tests
 
-    ./sources/suite
+    ./sources/suite.sh
 
 ## Libraries documentation
 

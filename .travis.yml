@@ -1,1 +1,1 @@
-script: ./sources/suite
+script: ./sources/suite.sh
